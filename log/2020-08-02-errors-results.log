@@ -1,0 +1,2 @@
+2020-08-02 07:55:37 error: error ,Error during processing request: http://localhost:9900/api/v1/send/transaction details message: oath_address is not defined
+2020-08-02 07:56:38 error: error ,Error during processing request: http://localhost:9900/api/v1/send/transaction details message: oath_address is not defined
